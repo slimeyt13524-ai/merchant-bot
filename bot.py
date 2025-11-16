@@ -20,7 +20,7 @@ STAFF_ROLE_3 = 1438588926104441013  # Can claim tickets up to 5 spawners
 
 SCAM_ALERT_ROLE_ID = 1438593799143161926  # Role pinged if scam
 TICKET_CATEGORY_ID = 1438565668189503518  # Category where tickets are created
-REQUEST_LOG_CHANNEL_ID = 1438578469930799175  # Channel for claim button
+REQUEST_LOG_CHANNEL_ID = 1439568860540829736  # Channel for claim button
 
 
 # ---------------------- UI COMPONENTS ---------------------- #
